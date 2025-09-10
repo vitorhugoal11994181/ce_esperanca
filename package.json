@@ -1,0 +1,17 @@
+{
+  "name": "meu-bot-discord",
+  "version": "1.0.0",
+  "description": "Bot do Discord rodando no Railway 24/7",
+  "main": "ce.js",
+  "scripts": {
+    "start": "node ce.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^17.2.2",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

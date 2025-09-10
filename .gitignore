@@ -1,0 +1,9 @@
+# Arquivos de ambiente (tokens, senhas, etc)
+.env
+
+# Node modules (dependências instaladas localmente)
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-error.log
